@@ -10,3 +10,5 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=kunal-chaure&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img width="676" height="352" alt="image" src="https://github.com/user-attachments/assets/726be550-7f5c-4164-9304-2a415e3436ea" />
+
